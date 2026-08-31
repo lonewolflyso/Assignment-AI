@@ -1,3 +1,6 @@
 /A2-dataset/
 /CSC2042S Assignment.pdf
 /.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
